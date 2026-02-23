@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|c:\\users\\otas\\desktop\\csharp-tutorials\\trymvcapplication\\trymvcapplication\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|solutionrelative:trymvcapplication\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|c:\\users\\otas\\desktop\\csharp-tutorials\\trymvcapplication\\trymvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|solutionrelative:trymvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|c:\\users\\otas\\desktop\\csharp-tutorials\\trymvcapplication\\trymvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|solutionrelative:trymvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "tryMVCapplication\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "tryMVCapplication\\Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:17:51.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Program.cs",
+              "RelativeDocumentMoniker": "tryMVCapplication\\Program.cs",
+              "ToolTip": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Program.cs",
+              "RelativeToolTip": "tryMVCapplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:45:15.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "tryMVCapplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "tryMVCapplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T11:43:28.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
