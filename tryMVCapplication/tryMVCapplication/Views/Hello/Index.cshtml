@@ -1,0 +1,19 @@
+﻿@model List<tryMVCapplication.Models.HelloViewModel>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<h1> Genuine Concern</h1>
+<p> let us begin with the flow.</p>
+
+
+<ul>
+    @foreach (var _helloViewModels in Model)
+   {
+       <li>
+            @_helloViewModels.Name (@_helloViewModels.Age years old))
+       </li>
+    }
+
+</ul>

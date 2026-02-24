@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|solutionrelative:trymvcapplication\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|c:\\users\\otas\\desktop\\csharp-tutorials\\trymvcapplication\\trymvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|solutionrelative:trymvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|c:\\users\\otas\\desktop\\csharp-tutorials\\trymvcapplication\\trymvcapplication\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|solutionrelative:trymvcapplication\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|c:\\users\\otas\\desktop\\csharp-tutorials\\trymvcapplication\\trymvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|solutionrelative:trymvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|c:\\users\\otas\\desktop\\csharp-tutorials\\trymvcapplication\\trymvcapplication\\models\\helloviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|solutionrelative:trymvcapplication\\models\\helloviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|c:\\users\\otas\\desktop\\csharp-tutorials\\trymvcapplication\\trymvcapplication\\views\\hello\\creator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|solutionrelative:trymvcapplication\\views\\hello\\creator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|c:\\users\\otas\\desktop\\csharp-tutorials\\trymvcapplication\\trymvcapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94CDC44C-A8CA-408F-AD49-E9A109C51CA4}|tryMVCapplication\\tryMVCapplication.csproj|solutionrelative:trymvcapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "creator.cshtml",
+              "DocumentMoniker": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Views\\Hello\\creator.cshtml",
+              "RelativeDocumentMoniker": "tryMVCapplication\\Views\\Hello\\creator.cshtml",
+              "ToolTip": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Views\\Hello\\creator.cshtml",
+              "RelativeToolTip": "tryMVCapplication\\Views\\Hello\\creator.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T17:03:32.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "tryMVCapplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "tryMVCapplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T16:55:40.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Models\\HelloViewModel.cs",
+              "RelativeDocumentMoniker": "tryMVCapplication\\Models\\HelloViewModel.cs",
+              "ToolTip": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Models\\HelloViewModel.cs",
+              "RelativeToolTip": "tryMVCapplication\\Models\\HelloViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T13:33:09.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Views\\Hello\\Index.cshtml",
+              "RelativeDocumentMoniker": "tryMVCapplication\\Views\\Hello\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Views\\Hello\\Index.cshtml",
+              "RelativeToolTip": "tryMVCapplication\\Views\\Hello\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T11:43:15.834Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,35 +92,9 @@
               "RelativeDocumentMoniker": "tryMVCapplication\\Controllers\\HelloController.cs",
               "ToolTip": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Controllers\\HelloController.cs",
               "RelativeToolTip": "tryMVCapplication\\Controllers\\HelloController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T12:17:51.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Program.cs",
-              "RelativeDocumentMoniker": "tryMVCapplication\\Program.cs",
-              "ToolTip": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Program.cs",
-              "RelativeToolTip": "tryMVCapplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T10:45:15.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "tryMVCapplication\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\OTAS\\Desktop\\Csharp-tutorials\\tryMVCapplication\\tryMVCapplication\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "tryMVCapplication\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T11:43:28.895Z",
               "EditorCaption": ""
             }
           ]
